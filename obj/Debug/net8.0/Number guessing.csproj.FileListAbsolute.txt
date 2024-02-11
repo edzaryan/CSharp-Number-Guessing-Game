@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Number guessing\bin\Debug\net8.0\Number guessing.exe
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Number guessing\bin\Debug\net8.0\Number guessing.deps.json
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Number guessing\bin\Debug\net8.0\Number guessing.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Number guessing\bin\Debug\net8.0\Number guessing.dll
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Number guessing\bin\Debug\net8.0\Number guessing.pdb
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Number guessing\obj\Debug\net8.0\Number guessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Number guessing\obj\Debug\net8.0\Number guessing.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Number guessing\obj\Debug\net8.0\Number guessing.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Number guessing\obj\Debug\net8.0\Number guessing.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Number guessing\obj\Debug\net8.0\Number guessing.dll
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Number guessing\obj\Debug\net8.0\refint\Number guessing.dll
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Number guessing\obj\Debug\net8.0\Number guessing.pdb
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Number guessing\obj\Debug\net8.0\Number guessing.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Number guessing\obj\Debug\net8.0\ref\Number guessing.dll
